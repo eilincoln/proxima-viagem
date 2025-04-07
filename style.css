@@ -1,22 +1,43 @@
-:root {
-    --baground-default: #F5F4F0;
-    --border-primary: #D9D9D9;
-    --text-primary: #1b1b1b;
-    --text-secondary: #333333;
-    --text-tertiary: #696969;
-    --text-headline: #E1624F;
-    --accent-blue: #0C51A7;
-    --accent-orange: #E95E10;
-    --accent-pink: #E5245E;
-    --accent-purple: #591B98;
-    --font-family: "Open Sans", sans-serif;
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
 
 body {
-    background-color: var(--baground-default);
-    font-family: var(--font-family);
+    background-color: #F5F4F0;
+    font-family: "Open Sans";
 }
 
 .container {
     width: 1120px;
+    margin: 88px auto;
+}
+
+.title-page p {
+    color: #E1624F;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.title-page h1 {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 44px;
+}
+
+.description-image img {
+    border-radius: 28px;
+    margin-bottom: 24px;
+}
+
+.description-image p {
+    color: #333333;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    text-align: center;
+    padding-bottom: 44px;
+    border-bottom: 1px solid #D9D9D9;
 }

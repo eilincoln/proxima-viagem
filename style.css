@@ -66,6 +66,15 @@ body {
     margin-bottom: 64px;
 }
 
+.card-travel {
+    margin-bottom: 48px;
+}
+
+.card-travel:last-child {
+    border-bottom: 1px solid #D9D9D9;
+    padding-bottom: 40px;
+}
+
 .card-travel img {
     border-radius: 28px;
     margin-bottom: 20px;
@@ -98,5 +107,16 @@ body {
     text-decoration: none;
     color: #0C51A7;
     font-weight: 700;
-    margin-bottom: 48px;
+}
+
+a.color1 {
+    color: #591B98;
+}
+
+a.color2 {
+    color: #E5245E;
+}
+
+a.color3 {
+    color: #E95E10;
 }

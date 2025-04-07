@@ -33,10 +33,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O site "Sua próxima viagem: Conheça Busan" é uma página estática desenvolvida com HTML e CSS que apresenta, de forma elegante e informativa, três pontos turísticos imperdíveis da cidade de Busan, na Coreia do Sul. Com um visual moderno, uso de tipografia refinada e ícones personalizados, o projeto oferece uma ótima experiência de navegação e serve como prática de construção de layouts atrativos e bem estruturados para quem está se desenvolvendo no front-end.
 
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/devlinks/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
 ## 🧾 Licença
 
 Esse projeto está sob a licença MIT.

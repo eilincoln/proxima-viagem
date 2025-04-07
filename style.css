@@ -65,3 +65,38 @@ body {
     font-weight: 400;
     margin-bottom: 64px;
 }
+
+.card-travel img {
+    border-radius: 28px;
+    margin-bottom: 20px;
+}
+
+.card-travel ol {
+    padding-left: 40px;
+    color: #1B1B1B;
+    font-size: 28px;
+    font-weight: 700;
+    margin-bottom: 4px;
+}
+
+.card-travel p {
+    color: #333333;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.card-travel span {
+    font-weight: bold;
+    color: #1B1B1B;
+}
+
+.card-travel ul {
+    padding-left: 25px;
+}
+
+.card-travel a {
+    text-decoration: none;
+    color: #0C51A7;
+    font-weight: 700;
+    margin-bottom: 48px;
+}

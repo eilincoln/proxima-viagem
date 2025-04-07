@@ -120,3 +120,19 @@ a.color2 {
 a.color3 {
     color: #E95E10;
 }
+
+.footer-p {
+    text-align: center;
+    color: #333333;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 65px;
+}
+
+footer {
+    margin-top: 65px;
+    font-family: Alice;
+    color: #333333;
+    font-size: 16px;
+    text-align: center;
+}

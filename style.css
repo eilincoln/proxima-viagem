@@ -41,3 +41,27 @@ body {
     padding-bottom: 44px;
     border-bottom: 1px solid #D9D9D9;
 }
+
+.content-list {
+    margin-top: 64px;
+}
+
+.title-list p:first-child {
+    color: #E1624F;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.title-list h2 {
+    font-size: 32px;
+    font-weight: 700;
+    margin-bottom: 8px;
+}
+
+.title-list p:nth-child(3) {
+    color: #333333;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 64px;
+}
